@@ -2,6 +2,10 @@
 
 Welcome to QuarkusAcademy! This organization is dedicated to helping developers learn and excel in building applications with Quarkus.
 
+## Disclaimer
+
+QuarkusAcademy is not affiliated with Red Hat, IBM, or any company. It's an independent educational organization.
+
 ## What is Quarkus?
 Quarkus is a Java framework designed for Kubernetes and optimized for GraalVM. It provides a streamlined environment for cloud-native applications.
 
